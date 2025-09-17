@@ -1,13 +1,9 @@
 {
-  "name": "consultasemtype-api",
+  "name": "idnz-api",
   "version": "1.0.0",
   "description": "API para consulta de valores",
   "main": "api/step.js",
-  "scripts": {
-    "dev": "node api/step.js"
-  },
-  "dependencies": {},
   "engines": {
-    "node": "18.x"
+    "node": "22.x"
   }
 }
